@@ -1,4 +1,4 @@
-# Dog Show
+# Movies and Platforms
 
 My database consists of movies, streaming platforms, and the things relating to them. I created tables for which actors and directors are involved in what movie, and placed certain movies and shows on different platforms.
 
